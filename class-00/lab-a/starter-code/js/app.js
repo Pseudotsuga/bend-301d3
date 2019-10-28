@@ -35,6 +35,7 @@ function displayPics(){
       viewed.push(rando);
     }
   }
+  //TODO: Conor's answer is below.
   // variables declared with the let keyword are locally scoped to the block statement they are declared within. Console logging rando threw an error because rando was declared and assigned within the displayPics function's code block, and the console log occured at the global scope.
   console.log(viewed);
 
