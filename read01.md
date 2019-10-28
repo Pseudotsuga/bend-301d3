@@ -15,5 +15,4 @@ This unit by default represents 1% of the total viewport height. When prefaced w
 
 [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/length)
 
-[Check if viewport units are compatible with the browser version(s) for which you are designing.]
-(https://caniuse.com/#feat=viewport-units)
+[Check if viewport units are compatible with the browser version(s) for which you are designing.](https://caniuse.com/#feat=viewport-units)
