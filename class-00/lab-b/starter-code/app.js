@@ -186,8 +186,8 @@ console.log(joe.scopeArrow());
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-//
+//    The student object assigned to the joe variable.
 // 2. What is "this" when joe.scopeArrow() is invoked?
-//
+//    The window object.
 // 3. Explain why "this" is different when an arrow function is used.
-//
+//    Arrow functions don't rebind their contextual this, so the value for this is inherited.
