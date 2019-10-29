@@ -140,6 +140,7 @@ let Student = function(name, age, hometown){
   this.name = name;
   this.age = age;
   this.hometown = hometown;
+  this.todo = ['go to school', 'go home'];
 };
 
 let joe = new Student('Joe Schmoe', 100, 'Bend');
